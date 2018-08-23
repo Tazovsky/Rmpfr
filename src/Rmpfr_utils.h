@@ -34,7 +34,7 @@
 # define MPFR_RNDN GMP_RNDN
 # define MPFR_RNDU GMP_RNDU
 # define MPFR_RNDZ GMP_RNDZ
-// # define MPFR_RNDA GMP_RNDA
+# define MPFR_RNDA GMP_RNDA
 
 # define mpfr_exp_t mp_exp_t
 
